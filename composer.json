@@ -9,12 +9,12 @@
         "cargus",
         "shipping"
     ],
-    "homepage": "https://github.com/WeBRTeu/cargus",
+    "homepage": "https://github.com/BrTDevil/webrteu-cargus",
     "authors": [
         {
             "name": "WeBRTeu",
             "email": "pfa.razvan.bodnariu@gmail.com",
-            "homepage": "https://webrteu.eu"
+            "homepage": "https://webrt.eu"
         }
     ],
     "require": {
