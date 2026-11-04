@@ -1,13 +1,15 @@
 {
     "name": "webrteu/cargus",
-    "description": "Cargus (UrgentOnlineAPI) integration for Laravel (Romania)",
+    "description": "Cargus (UrgentOnline API) driver for webrteu/shipping (Laravel, Romania)",
     "type": "library",
     "license": "MIT",
     "keywords": [
         "laravel",
         "romania",
-        "cargus",
-        "shipping"
+        "shipping",
+        "courier",
+        "awb",
+        "cargus"
     ],
     "homepage": "https://github.com/BrTDevil/webrteu-cargus",
     "authors": [
@@ -23,7 +25,7 @@
         "illuminate/database": "^12.0|^13.0",
         "illuminate/http": "^12.0|^13.0",
         "illuminate/support": "^12.0|^13.0",
-        "webrteu/shipping": "^0.1"
+        "webrteu/shipping": "^1.0"
     },
     "require-dev": {
         "larastan/larastan": "^3.13",
